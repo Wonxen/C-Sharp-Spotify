@@ -3,7 +3,7 @@
 * C# Örnek Spotify.
 
 # Proje Hakkında
-* Bu projede Bunifu Framework kullanılmıştır yazılımı bırakmayı düşündüğüm için yarım bırakıp paylaşmaya karar verdim alıp kodlayıp kullanmak sizin elinizde sadece çalma kodunu proje içinde bıraktım keyifli kodlamalar.
+* Bu projede Bunifu Framework kullanılmıştır yazılımı bırakmayı düşündüğüm için yarım bırakıp paylaşmaya karar verdim alıp kodlayıp kullanmak sizin elinizde sadece müzik oynatma kodunu proje içinde bıraktım keyifli kodlamalar.
 
 # Çalıştırmak İçin
 * İlk olarak bilgisayarına [Visual Studio](https://visualstudio.microsoft.com/tr/downloads/) indir.
