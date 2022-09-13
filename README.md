@@ -19,5 +19,5 @@
 
 #### 🙏 Teşekkürler
 
-Projemi kullanıp bana destek olan herkese teşekkür ederim. Bana [**Wonxen#4512**](https://discord.com/users/545976310342746152) isimli hesap üzerinden veya [**Mail Göndererek**](mailto:emreecanbaltaa@icloud.com) ulaşabilirsiniz.
+Projemi kullanıp bana destek olan herkese teşekkür ederim. Bana [**Mail Göndererek**](mailto:emreecanbaltaa@icloud.com) ulaşabilirsiniz.
 
